@@ -1,0 +1,3 @@
+min_delay(ms) max_delay(ms)
+IP1 port1
+IP2 port2
