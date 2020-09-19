@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9633133d-91ca-437d-a77d-bc91b9c02156" name="Default Changelist" comment="" />
+    <list default="true" id="9633133d-91ca-437d-a77d-bc91b9c02156" name="Default Changelist" comment="final commit">
+      <change afterPath="$PROJECT_DIR$/server/unicastReceive.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildTcp/unicastReceive.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildTcp/unicastSend.go" beforeDir="false" afterPath="$PROJECT_DIR$/buildTcp/unicastSend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configFile/configuration.go" beforeDir="false" afterPath="$PROJECT_DIR$/configFile/configuration.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +22,11 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hhcqA0LkG4BiODbHwOHaJsW9Zb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MP1_DanielFlores/tcpS.go" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MP1_DanielFlores" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,18 +44,42 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\flore\Desktop\ds\MP1_update\server" />
+      <recent name="C:\Users\flore\Desktop\ds\MP1_update\buildTcp" />
+      <recent name="C:\Users\flore\Desktop\ds\MP1_update" />
+      <recent name="C:\Users\flore\Desktop\ds\MP1_update\configFile" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600468490213">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1600468490213" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1600470948957">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1600478912171">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600470948957" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600478912171" />
+    <state x="514" y="239" key="Github.ShareDialog" timestamp="1600474810323">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="514" y="239" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1600474810323" />
+    <state x="465" y="46" key="Github.UntrackedFilesDialog" timestamp="1600474818084">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="465" y="46" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1600474818084" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600479782973">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600479782973" />
   </component>
 </project>
